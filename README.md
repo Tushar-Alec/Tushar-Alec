@@ -6,9 +6,9 @@ I'm a passionate web developer from Mumbai, India, with a keen interest in build
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Python
+Backend: Java, Python
 
-Frameworks & Libraries: Flask
+Frameworks & Libraries: Flask, React
 
 Databases: MySQL
 
