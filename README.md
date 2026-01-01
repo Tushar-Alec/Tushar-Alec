@@ -1,15 +1,14 @@
-## Hi there! I'm Tushar-Alec
+## Hi there! I'm Tushar
 
-I'm a passionate web developer from Mumbai, India, with a keen interest in building interactive and user-friendly applications. I enjoy experimenting with various technologies to create innovative solutions.
+Software Developer with a strong foundation in full-stack development, currently pursuing MCA after a B.Sc. in Computer Science. Hands on experience building and deploying real world web applications using modern technologies. Driven by curiosity, problem solving and a desire to build impactful Web.
 
 🔧 Technologies & Tools
 
-Frontend: HTML, CSS, JavaScript
+•	Languages:  Java, JavaScript
 
-Backend: Java, Python
+•	Frameworks & Libraries: Spring, React, Node.js, Next.js
 
-Frameworks & Libraries: Flask, React
+•	Databases: MySQL, MongoDB, Firebase
 
-Databases: MySQL
+•	Tools & Platforms: Git/GitHub, Docker, Linux, Figma, Webflow. Postman
 
-Tools: Git, GitHub
